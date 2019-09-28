@@ -1,0 +1,6 @@
+Student answer sequences are recorded in train.csv and test.csv. We use three rows to represent each student answer sequence, for example:
+24
+30,32,32,69,69,69,75,75,75,75,75,75,75,75,28,28,28,44,44,35,35,35,14,64
+0,0,0,0,1,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1,0,0
+The first row is the number of the questions answered. The second is skill id. The third is answer correctly (1) or incorrectly (0).
+Besides train.csv and test.csv, other files describe the correspondence between skill id and skill name.
